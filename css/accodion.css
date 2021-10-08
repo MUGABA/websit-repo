@@ -38,7 +38,7 @@
 
 .footer {
   position: relative;
-  margin-top: 45px;
+  margin-top: 0px;
   padding-top: 90px;
   background: #202c45;
 }
@@ -165,4 +165,7 @@
 
 .footer .copyright p a:hover {
   color: #ffffff;
+}
+#about {
+  background-color: whitesmoke;
 }
