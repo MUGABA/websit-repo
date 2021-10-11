@@ -58,7 +58,7 @@
   font-size: 20px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #e81c2e;
+  color: #ff5933;
 }
 
 .footer .footer-link a {
@@ -77,7 +77,7 @@
 }
 
 .footer .footer-link a:hover {
-  color: #e81c2e;
+  color: #ff5933;
   letter-spacing: 1px;
 }
 
@@ -110,7 +110,7 @@
 
 .footer .footer-social a:hover {
   color: #ffffff;
-  background: #e81c2e;
+  background: #ff5933;
 }
 
 .footer .footer-newsletter form {
@@ -137,13 +137,13 @@
   width: 100%;
   color: #202c45;
   background: #ffffff;
-  box-shadow: inset 0 0 0 0 #e81c2e;
+  box-shadow: inset 0 0 0 0 #ff5933;
 }
 
 .footer .footer-newsletter .btn:hover {
   color: #ffffff;
-  background: #e81c2e;
-  box-shadow: inset 200px 0 0 0 #e81c2e;
+  background: #ff5933;
+  box-shadow: inset 200px 0 0 0 #ff5933;
 }
 
 .footer .copyright {
@@ -158,7 +158,7 @@
 }
 
 .footer .copyright p a {
-  color: #e81c2e;
+  color: #ff5933;
   font-weight: 700;
   letter-spacing: 1px;
 }
